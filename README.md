@@ -1,6 +1,6 @@
 # Flow AI Career Guidance Chatbot
 
-Want to interact with the production version of this application? Go too: [https://flow-ai-career-bot.vercel.app/](https://flow-ai-career-bot.vercel.app/)
+Want to interact with the production version of this application? Click Here -> [https://flow-ai-career-bot.vercel.app/](https://flow-ai-career-bot.vercel.app/)
 
 ## 📋 Project Overview
 
