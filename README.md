@@ -1,5 +1,7 @@
 # Flow AI Career Guidance Chatbot
 
+Want to interact with the production version of this application? Go too: [https://flow-ai-career-bot.vercel.app/](https://flow-ai-career-bot.vercel.app/)
+
 ## 📋 Project Overview
 
 **Flow** is a professional-grade AI-powered career guidance chatbot designed to help users discover fulfilling career paths based on their unique combination of interests, personality traits, strengths, and weaknesses. The application specializes in assisting "unicorn" professionals—individuals with broad, interdisciplinary skills who may not fit into traditional career boxes.
@@ -75,8 +77,8 @@ ai-chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/career-guidance-chatbot.git
-   cd career-guidance-chatbot
+   git clone https://github.com/yourusername/flow-ai-career-bot.git
+   cd flow-ai-career-bot
    ```
 
 2. **Install dependencies**
