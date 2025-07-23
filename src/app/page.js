@@ -101,7 +101,7 @@ export default function Home() {
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-[#1A202C] mb-4 text-center">Discover Your Unique Career Path</h1>
             <p className="text-xl sm:text-2xl text-[#1A202C] mb-3 font-medium text-center">with <span className="text-[#D69E2E] font-bold">Flow</span>, your AI career guidance assistant</p>
-            <p className="text-lg sm:text-xl text-[#4A5568] text-center max-w-4xl mx-auto leading-relaxed">Flow helps you explore fulfilling career options based on your unique mix of interests, strengths, and personality traits—especially if you're a "unicorn" with broad skills!</p>
+            <p className="text-lg sm:text-xl text-[#4A5568] text-center max-w-4xl mx-auto leading-relaxed">Flow helps you explore fulfilling career options based on your unique mix of interests, strengths, and personality traits—especially if you&apos;re a &ldquo;unicorn&rdquo; with broad skills!</p>
             {/* Tips Card Toggle */}
             <button
               className="absolute top-4 right-4 bg-[#D69E2E] hover:bg-[#B7791F] text-[#1A202C] font-bold rounded-full px-3 py-1 shadow transition"
